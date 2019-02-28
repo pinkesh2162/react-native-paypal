@@ -44,3 +44,6 @@ buck-out/
 \.buckd/
 *.keystore
       
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
